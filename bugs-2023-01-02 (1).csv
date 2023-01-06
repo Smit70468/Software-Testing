@@ -1,0 +1,25 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+1,critical,Normal,Windows,abhi@gmail.com,RESOLVED,FIXED,Click on submit button while enter details only in Full Name field it should be accept the details.
+2,enhancement,Normal,Windows,abhi@gmail.com,ASSIGNED,---,Click on submit button while enter details only in Full Name field it should be accept the details.
+3,minor,Low,Windows,abhi@gmail.com,NEW,---,While Open Home page then Site UI not responsive in some browser.
+4,minor,---,Windows,abhi@gmail.com,NEW,---,While open elements page then site UI not responsive in some browser.
+5,minor,Normal,Windows,darshan@gmail.com,NEW,---,While open forms page then site UI not responsive in some browser.
+6,minor,Normal,Windows,gopal@gmail.com,NEW,---,While open Alertswindows Page then site UI not responsive in some browser.
+7,minor,Normal,Windows,gopal@gmail.com,NEW,---,While open Widgets Page then site UI not responsive in some browser.
+8,minor,Low,Windows,darshan@gmail.com,NEW,---,While open Interactions Page then site UI not responsive in some browser.
+9,normal,Normal,Windows,abhi@gmail.com,NEW,---,While open Interactions Page then site UI not responsive in some browser.
+10,major,---,Windows,abhi@gmail.com,NEW,---,Click on submit button while enter details only in Full Name field it should be accept the details.
+11,normal,---,Windows,abhi@gmail.com,NEW,---,Click on submit button while enter details in First Name field numeric character it should not be accept.
+12,normal,---,Windows,abhi@gmail.com,NEW,---,Click on submit button while enter details in First Name and Last Name fields alphabetic and numeric character it should not be accept.
+13,minor,---,Windows,darshan@gmail.com,NEW,---,While open the page then UI not responsive in some browser so it should be UI responsive.
+14,minor,---,Windows,darshan@gmail.com,NEW,---,While open automation-practice-form page UI not responsive so it should be UI responsive.
+15,minor,---,Windows,darshan@gmail.com,NEW,---,Click on submit button while enter details in First Name field numeric character it should not be accept.
+16,normal,---,Windows,darshan@gmail.com,NEW,---,Click on submit button while enter details in Last Name field numeric character it should not be accept.
+17,major,---,Windows,darshan@gmail.com,NEW,---,"Check Date of birth field it select future date so it's not acceptable, it should be select past date by user"
+18,normal,---,Windows,darshan@gmail.com,NEW,---,Check picture upload field click on select picture lable it show the upload dialog box so it's not acceptable because click on choose file button then after open dialog box for file choose.
+19,minor,---,Windows,gopal@gmail.com,NEW,---,While open the page then UI not responsive in some browser so it should be UI responsive.
+20,minor,---,Windows,gopal@gmail.com,NEW,---,more tab option is disable so it should be work properly as same all tab.
+21,minor,---,Windows,gopal@gmail.com,NEW,---,While click on Mian Item 1 button it's not show any sub list so it should be show sub list.
+22,minor,---,Windows,gopal@gmail.com,NEW,---,While click on standard multi select button it's not select multiple option in dropdown list.
+23,normal,---,Windows,gopal@gmail.com,NEW,---,While click on standard multi select button it's not select multiple option in dropdown list.
+24,normal,---,Windows,abhi@gmail.com,NEW,---,Click on delete action button then delete the product from collection list but product image not delete from collection.
